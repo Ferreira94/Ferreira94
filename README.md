@@ -12,6 +12,7 @@
   <img align="center" alt="react-badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="react-badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="react-badge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  ![Mestre Yoda](https://c.tenor.com/Z2YuwsLqZEgAAAAM/star-wars-yoda.gif)
 </div>
 
 ##
